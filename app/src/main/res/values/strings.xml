@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Threading Demo</string>
+    <string name="find_fibonacci_number">Find Fibonacci Number</string>
+    <string name="result">Result:</string>
+</resources>
